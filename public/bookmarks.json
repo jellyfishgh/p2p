@@ -1,0 +1,108 @@
+[{
+    "guid": "DrWen47q9MFn",
+    "title": "顾老师让我过来讲故事，哦，不不，自我介绍",
+    "index": 0,
+    "dateAdded": 1456829968556000,
+    "lastModified": 1456829968558000,
+    "id": 56,
+    "charset": "UTF-8",
+    "tags": "20160301",
+    "iconuri": "http://www.zhangxinxu.com/favicon.ico",
+    "annos": [{
+        "name": "bookmarkProperties/description",
+        "flags": 0,
+        "expires": 4,
+        "value": ""
+    }],
+    "type": "text/x-moz-place",
+    "uri": "http://www.zhangxinxu.com/sp/slide/share-intro.html"
+}, {
+    "guid": "aPQfdCkUYcQ9",
+    "title": "Node.js非阻塞IO和事件循环学习总结",
+    "index": 1,
+    "dateAdded": 1456830017429000,
+    "lastModified": 1456830017431000,
+    "id": 59,
+    "charset": "UTF-8",
+    "tags": "20160301",
+    "annos": [{
+        "name": "bookmarkProperties/description",
+        "flags": 0,
+        "expires": 4,
+        "value": "本文针对在Node.js关键的两个概念：非阻塞IO和事件循环进行了适当的总结。\n        学习和使用Node.js已经有两个月，使用express结合mongoos"
+    }],
+    "type": "text/x-moz-place",
+    "uri": "http://www.laibaobei.com/javascript/22934.html"
+}, {
+    "guid": "g0x6acWAb8fX",
+    "title": "GitHub - dieforfree/qart4j: QR code ASCII art for java",
+    "index": 2,
+    "dateAdded": 1456830027037000,
+    "lastModified": 1456830027084000,
+    "id": 61,
+    "charset": "UTF-8",
+    "tags": "20160301",
+    "iconuri": "https://assets-cdn.github.com/favicon.ico",
+    "annos": [{
+        "name": "bookmarkProperties/description",
+        "flags": 0,
+        "expires": 4,
+        "value": "qart4j - QR code ASCII art for java"
+    }],
+    "type": "text/x-moz-place",
+    "uri": "https://github.com/dieforfree/qart4j"
+}, {
+    "guid": "iPglR5vNdBRr",
+    "title": "CSS背景色镂空技术实际应用及进阶 « 张鑫旭-鑫空间-鑫生活",
+    "index": 3,
+    "dateAdded": 1456830045365000,
+    "lastModified": 1456830045367000,
+    "id": 63,
+    "charset": "UTF-8",
+    "tags": "20160301",
+    "iconuri": "http://www.zhangxinxu.com/favicon.ico",
+    "annos": [{
+        "name": "bookmarkProperties/description",
+        "flags": 0,
+        "expires": 4,
+        "value": "张鑫旭的个人博客_web前端技术文章_CSS背景色镂空技术实际应用及进阶"
+    }],
+    "type": "text/x-moz-place",
+    "uri": "http://www.zhangxinxu.com/wordpress/2013/07/css-%E8%83%8C%E6%99%AF%E8%89%B2%E5%9B%BE%E7%89%87%E9%95%82%E7%A9%BA%E6%8A%80%E6%9C%AF/"
+}, {
+    "guid": "pUwFuTT-4GPd",
+    "title": "镂空背景图片下的transition过渡效果 » 张鑫旭-鑫空间-鑫生活",
+    "index": 4,
+    "dateAdded": 1456830062909000,
+    "lastModified": 1456830062911000,
+    "id": 65,
+    "charset": "UTF-8",
+    "tags": "20160301",
+    "iconuri": "http://www.zhangxinxu.com/favicon.ico",
+    "annos": [{
+        "name": "bookmarkProperties/description",
+        "flags": 0,
+        "expires": 4,
+        "value": "镂空背景图片下的transition过渡效果 » 张鑫旭-鑫空间-鑫生活"
+    }],
+    "type": "text/x-moz-place",
+    "uri": "http://www.zhangxinxu.com/study/201602/hollow-background-image-transition.html"
+}, {
+    "guid": "gR8PH38KSYdR",
+    "title": "CSS镂空图片transition过渡初加载背景色块问题解决 « 张鑫旭-鑫空间-鑫生活",
+    "index": 5,
+    "dateAdded": 1456830123621000,
+    "lastModified": 1456830123624000,
+    "id": 67,
+    "charset": "UTF-8",
+    "tags": "20160301",
+    "iconuri": "http://www.zhangxinxu.com/favicon.ico",
+    "annos": [{
+        "name": "bookmarkProperties/description",
+        "flags": 0,
+        "expires": 4,
+        "value": "张鑫旭的个人博客_web前端技术文章_CSS镂空图片transition过渡初加载背景色块问题解决"
+    }],
+    "type": "text/x-moz-place",
+    "uri": "http://www.zhangxinxu.com/wordpress/2016/02/css-hollow-image-for-transition-background-color-problem-fixed/"
+}]
