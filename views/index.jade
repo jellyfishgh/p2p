@@ -3,8 +3,4 @@ extends layout
 block content
   h1= title
   p Welcome to #{title}
-  ul
-    - for(var mark in #{marks}){
-        li
-          a(href=#{mark.uri}) #{mark.title}
-    }
+  p #{marks.name}
