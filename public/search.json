@@ -1,1 +1,494 @@
-{"query":null,"locale":"en-US","page":1,"pages":602,"start":1,"end":10,"next":"https://developer.mozilla.org/en-US/search.json?page=2","previous":null,"count":6012,"filters":[{"name":"Topics","slug":"topic","options":[{"name":"APIs and DOM","slug":"api","count":3922,"active":true,"urls":{"active":"/en-US/search.json?topic=api","inactive":"/en-US/search.json"}},{"name":"Add-ons & Extensions","slug":"addons","count":737,"active":false,"urls":{"active":"/en-US/search.json?topic=addons","inactive":"/en-US/search.json"}},{"name":"CSS","slug":"css","count":837,"active":true,"urls":{"active":"/en-US/search.json?topic=css","inactive":"/en-US/search.json"}},{"name":"Canvas","slug":"canvas","count":172,"active":false,"urls":{"active":"/en-US/search.json?topic=canvas","inactive":"/en-US/search.json"}},{"name":"Firefox","slug":"firefox","count":172,"active":false,"urls":{"active":"/en-US/search.json?topic=firefox","inactive":"/en-US/search.json"}},{"name":"Firefox OS","slug":"firefox-os","count":1091,"active":false,"urls":{"active":"/en-US/search.json?topic=firefox-os","inactive":"/en-US/search.json"}},{"name":"Firefox for Android","slug":"firefox-mobile","count":0,"active":false,"urls":{"active":"/en-US/search.json?topic=firefox-mobile","inactive":"/en-US/search.json"}},{"name":"Firefox for Desktop","slug":"firefox-desktop","count":0,"active":false,"urls":{"active":"/en-US/search.json?topic=firefox-desktop","inactive":"/en-US/search.json"}},{"name":"Games","slug":"games","count":80,"active":false,"urls":{"active":"/en-US/search.json?topic=games","inactive":"/en-US/search.json"}},{"name":"HTML","slug":"html","count":329,"active":true,"urls":{"active":"/en-US/search.json?topic=html","inactive":"/en-US/search.json"}},{"name":"JavaScript","slug":"js","count":1070,"active":true,"urls":{"active":"/en-US/search.json?topic=js","inactive":"/en-US/search.json"}},{"name":"Marketplace","slug":"marketplace","count":73,"active":false,"urls":{"active":"/en-US/search.json?topic=marketplace","inactive":"/en-US/search.json"}},{"name":"MathML","slug":"mathml","count":73,"active":false,"urls":{"active":"/en-US/search.json?topic=mathml","inactive":"/en-US/search.json"}},{"name":"Mobile","slug":"mobile","count":269,"active":false,"urls":{"active":"/en-US/search.json?topic=mobile","inactive":"/en-US/search.json"}},{"name":"Open Web Apps","slug":"apps","count":291,"active":false,"urls":{"active":"/en-US/search.json?topic=apps","inactive":"/en-US/search.json"}},{"name":"SVG","slug":"svg","count":401,"active":false,"urls":{"active":"/en-US/search.json?topic=svg","inactive":"/en-US/search.json"}},{"name":"Web Development","slug":"webdev","count":115,"active":false,"urls":{"active":"/en-US/search.json?topic=webdev","inactive":"/en-US/search.json"}},{"name":"WebGL","slug":"webgl","count":281,"active":false,"urls":{"active":"/en-US/search.json?topic=webgl","inactive":"/en-US/search.json"}},{"name":"Writing Documentation","slug":"docs","count":30,"active":false,"urls":{"active":"/en-US/search.json?topic=docs","inactive":"/en-US/search.json"}},{"name":"XPCOM","slug":"xpcom","count":784,"active":false,"urls":{"active":"/en-US/search.json?topic=xpcom","inactive":"/en-US/search.json"}},{"name":"XUL","slug":"xul","count":309,"active":false,"urls":{"active":"/en-US/search.json?topic=xul","inactive":"/en-US/search.json"}}]},{"name":"Skill level","slug":"skill","options":[{"name":"I'm Learning","slug":"beginner","count":277,"active":false,"urls":{"active":"/en-US/search.json?skill=beginner","inactive":"/en-US/search.json"}},{"name":"I'm an Expert","slug":"advanced","count":100,"active":false,"urls":{"active":"/en-US/search.json?skill=advanced","inactive":"/en-US/search.json"}},{"name":"Intermediate","slug":"intermediate","count":94,"active":false,"urls":{"active":"/en-US/search.json?skill=intermediate","inactive":"/en-US/search.json"}}]},{"name":"Document type","slug":"type","options":[{"name":"Code Samples","slug":"code","count":68,"active":false,"urls":{"active":"/en-US/search.json?type=code","inactive":"/en-US/search.json"}},{"name":"How-To & Tutorial","slug":"howto","count":688,"active":false,"urls":{"active":"/en-US/search.json?type=howto","inactive":"/en-US/search.json"}},{"name":"Tools","slug":"tools","count":112,"active":false,"urls":{"active":"/en-US/search.json?type=tools","inactive":"/en-US/search.json"}}]}],"documents":[{"id":2885,"title":"Adding z-index","slug":"Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index","edit_url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index$edit","excerpt":"The first example, Stacking without z-index, explains how stacking is arranged by default. If you want to specify a different stacking order, you have to position an element and use the z-index property.","tags":["Understanding_CSS_z-index","CSS","Advanced"],"score":1.0,"parent":{}},{"id":2917,"title":":fullscreen","slug":"Web/CSS/:fullscreen","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:fullscreen","edit_url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:fullscreen$edit","excerpt":"The :fullscreen CSS pseudo-class applies to any element that's currently being displayed in full-screen mode. It selects not only to the top level element, but to the whole stack of elements that appears.","tags":["CSS","Reference","Full-screen","Experimental","CSS Pseudo-class","NeedsLiveSample"],"score":1.0,"parent":{}},{"id":3011,"title":"Math.atan2()","slug":"Web/JavaScript/Reference/Global_Objects/Math/atan2","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2","edit_url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2$edit","excerpt":"The Math.atan2() function returns the arctangent of the quotient of its arguments.","tags":["Reference","Method","Math","JavaScript"],"score":1.0,"parent":{}},{"id":3016,"title":"DirectoryEntrySync","slug":"Web/API/DirectoryEntrySync","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/API/DirectoryEntrySync","edit_url":"https://developer.mozilla.org/en-US/docs/Web/API/DirectoryEntrySync$edit","excerpt":"The DirectoryEntrySync interface of the File System API represents a directory in a file system. It includes methods for creating, reading, looking up, and recursively removing files in a directory.","tags":["API","Offline","Reference","File API","R茅f茅rence","File System API","filesystem"],"score":1.0,"parent":{}},{"id":3256,"title":"Using the alertdialog role","slug":"Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alertdialog_role","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alertdialog_role","edit_url":"https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alertdialog_role$edit","excerpt":"The alertdialog role is used to notify the user of urgent information that demands the user's immediate attention.聽As the name implies, alertdialog is a type of dialog.聽This means that most of the instructions provided in the ' using the dialog role ' technique are applicable to the alertdialog role as well:","tags":["modal","alertdialog","Role","CodingScripting","NeedsContent","ARIA","Accessibility","agent","HTML","user","alerts","Web Development","userAgent"],"score":1.0,"parent":{}},{"id":3321,"title":"Using CSS multi-column layouts","slug":"Web/CSS/CSS_Columns/Using_multi-column_layouts","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts","edit_url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts$edit","excerpt":"The CSS multi-column layout extends the block layout mode to allow the easy definition of multiple columns of text.","tags":["Multi-columns","CSS","Advanced","Web","Guide"],"score":1.0,"parent":{}},{"id":3504,"title":"<frameset>","slug":"Web/HTML/Element/frameset","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frameset","edit_url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frameset$edit","excerpt":"frameset is an HTML element which is used to contain frame elements.","tags":["脡l茅ment","Element","Reference","R茅f茅rence","Web","HTML","Deprecated"],"score":1.0,"parent":{}},{"id":3528,"title":"KeyboardEvent.which","slug":"Web/API/KeyboardEvent/which","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/which","edit_url":"https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/which$edit","excerpt":"The KeyboardEvent.which read-only property returns the numeric keyCode of the key pressed, or the character code (charCode) for an alphanumeric key pressed.","tags":["API","Read-only","Reference","Property","R茅f茅rence","KeyboardEvent","Deprecated","DOM"],"score":1.0,"parent":{}},{"id":3530,"title":"Deprecated and obsolete features","slug":"Web/JavaScript/Reference/Deprecated_and_obsolete_features","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features","edit_url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features$edit","excerpt":"This page lists features of JavaScript that are deprecated (that is, still available but planned for removal) and obsolete (that is, no longer usable).","tags":["Obsolete","Deprecated","JavaScript"],"score":1.0,"parent":{}},{"id":3629,"title":"Int8Array","slug":"Web/JavaScript/Reference/Global_Objects/Int8Array","locale":"en-US","url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array","edit_url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array$edit","excerpt":"The Int8Array typed array represents an array of twos-complement 8-bit signed integers. The contents are initialized to 0. Once established, you can reference elements in the array using the object's methods, or using standard array index syntax (that is, using bracket notation).","tags":["Constructor","JavaScript","Int8Array","TypedArray","TypedArrays"],"score":1.0,"parent":{}}]}
+{
+    "query": null,
+    "locale": "en-US",
+    "page": 1,
+    "pages": 602,
+    "start": 1,
+    "end": 10,
+    "next": "https://developer.mozilla.org/en-US/search.json?page=2",
+    "previous": null,
+    "count": 6012,
+    "filters": [
+        {
+            "name": "Topics",
+            "slug": "topic",
+            "options": [
+                {
+                    "name": "APIs and DOM",
+                    "slug": "api",
+                    "count": 3922,
+                    "active": true,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=api",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Add-ons & Extensions",
+                    "slug": "addons",
+                    "count": 737,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=addons",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "CSS",
+                    "slug": "css",
+                    "count": 837,
+                    "active": true,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=css",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Canvas",
+                    "slug": "canvas",
+                    "count": 172,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=canvas",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Firefox",
+                    "slug": "firefox",
+                    "count": 172,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=firefox",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Firefox OS",
+                    "slug": "firefox-os",
+                    "count": 1091,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=firefox-os",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Firefox for Android",
+                    "slug": "firefox-mobile",
+                    "count": 0,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=firefox-mobile",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Firefox for Desktop",
+                    "slug": "firefox-desktop",
+                    "count": 0,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=firefox-desktop",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Games",
+                    "slug": "games",
+                    "count": 80,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=games",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "HTML",
+                    "slug": "html",
+                    "count": 329,
+                    "active": true,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=html",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "JavaScript",
+                    "slug": "js",
+                    "count": 1070,
+                    "active": true,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=js",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Marketplace",
+                    "slug": "marketplace",
+                    "count": 73,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=marketplace",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "MathML",
+                    "slug": "mathml",
+                    "count": 73,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=mathml",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Mobile",
+                    "slug": "mobile",
+                    "count": 269,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=mobile",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Open Web Apps",
+                    "slug": "apps",
+                    "count": 291,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=apps",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "SVG",
+                    "slug": "svg",
+                    "count": 401,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=svg",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Web Development",
+                    "slug": "webdev",
+                    "count": 115,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=webdev",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "WebGL",
+                    "slug": "webgl",
+                    "count": 281,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=webgl",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Writing Documentation",
+                    "slug": "docs",
+                    "count": 30,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=docs",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "XPCOM",
+                    "slug": "xpcom",
+                    "count": 784,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=xpcom",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "XUL",
+                    "slug": "xul",
+                    "count": 309,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?topic=xul",
+                        "inactive": "/en-US/search.json"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Skill level",
+            "slug": "skill",
+            "options": [
+                {
+                    "name": "I'm Learning",
+                    "slug": "beginner",
+                    "count": 277,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?skill=beginner",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "I'm an Expert",
+                    "slug": "advanced",
+                    "count": 100,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?skill=advanced",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Intermediate",
+                    "slug": "intermediate",
+                    "count": 94,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?skill=intermediate",
+                        "inactive": "/en-US/search.json"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Document type",
+            "slug": "type",
+            "options": [
+                {
+                    "name": "Code Samples",
+                    "slug": "code",
+                    "count": 68,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?type=code",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "How-To & Tutorial",
+                    "slug": "howto",
+                    "count": 688,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?type=howto",
+                        "inactive": "/en-US/search.json"
+                    }
+                },
+                {
+                    "name": "Tools",
+                    "slug": "tools",
+                    "count": 112,
+                    "active": false,
+                    "urls": {
+                        "active": "/en-US/search.json?type=tools",
+                        "inactive": "/en-US/search.json"
+                    }
+                }
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "id": 2885,
+            "title": "Adding z-index",
+            "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index$edit",
+            "excerpt": "The first example, Stacking without z-index, explains how stacking is arranged by default. If you want to specify a different stacking order, you have to position an element and use the z-index property.",
+            "tags": [
+                "Understanding_CSS_z-index",
+                "CSS",
+                "Advanced"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 2917,
+            "title": ":fullscreen",
+            "slug": "Web/CSS/:fullscreen",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/:fullscreen",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/:fullscreen$edit",
+            "excerpt": "The :fullscreen CSS pseudo-class applies to any element that's currently being displayed in full-screen mode. It selects not only to the top level element, but to the whole stack of elements that appears.",
+            "tags": [
+                "CSS",
+                "Reference",
+                "Full-screen",
+                "Experimental",
+                "CSS Pseudo-class",
+                "NeedsLiveSample"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 3011,
+            "title": "Math.atan2()",
+            "slug": "Web/JavaScript/Reference/Global_Objects/Math/atan2",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2$edit",
+            "excerpt": "The Math.atan2() function returns the arctangent of the quotient of its arguments.",
+            "tags": [
+                "Reference",
+                "Method",
+                "Math",
+                "JavaScript"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 3016,
+            "title": "DirectoryEntrySync",
+            "slug": "Web/API/DirectoryEntrySync",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/API/DirectoryEntrySync",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/DirectoryEntrySync$edit",
+            "excerpt": "The DirectoryEntrySync interface of the File System API represents a directory in a file system. It includes methods for creating, reading, looking up, and recursively removing files in a directory.",
+            "tags": [
+                "API",
+                "Offline",
+                "Reference",
+                "File API",
+                "R茅f茅rence",
+                "File System API",
+                "filesystem"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 3256,
+            "title": "Using the alertdialog role",
+            "slug": "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alertdialog_role",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alertdialog_role",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alertdialog_role$edit",
+            "excerpt": "The alertdialog role is used to notify the user of urgent information that demands the user's immediate attention.聽As the name implies, alertdialog is a type of dialog.聽This means that most of the instructions provided in the ' using the dialog role ' technique are applicable to the alertdialog role as well:",
+            "tags": [
+                "modal",
+                "alertdialog",
+                "Role",
+                "CodingScripting",
+                "NeedsContent",
+                "ARIA",
+                "Accessibility",
+                "agent",
+                "HTML",
+                "user",
+                "alerts",
+                "Web Development",
+                "userAgent"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 3321,
+            "title": "Using CSS multi-column layouts",
+            "slug": "Web/CSS/CSS_Columns/Using_multi-column_layouts",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts$edit",
+            "excerpt": "The CSS multi-column layout extends the block layout mode to allow the easy definition of multiple columns of text.",
+            "tags": [
+                "Multi-columns",
+                "CSS",
+                "Advanced",
+                "Web",
+                "Guide"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 3504,
+            "title": "<frameset>",
+            "slug": "Web/HTML/Element/frameset",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frameset",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frameset$edit",
+            "excerpt": "frameset is an HTML element which is used to contain frame elements.",
+            "tags": [
+                "脡l茅ment",
+                "Element",
+                "Reference",
+                "R茅f茅rence",
+                "Web",
+                "HTML",
+                "Deprecated"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 3528,
+            "title": "KeyboardEvent.which",
+            "slug": "Web/API/KeyboardEvent/which",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/which",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/which$edit",
+            "excerpt": "The KeyboardEvent.which read-only property returns the numeric keyCode of the key pressed, or the character code (charCode) for an alphanumeric key pressed.",
+            "tags": [
+                "API",
+                "Read-only",
+                "Reference",
+                "Property",
+                "R茅f茅rence",
+                "KeyboardEvent",
+                "Deprecated",
+                "DOM"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 3530,
+            "title": "Deprecated and obsolete features",
+            "slug": "Web/JavaScript/Reference/Deprecated_and_obsolete_features",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features$edit",
+            "excerpt": "This page lists features of JavaScript that are deprecated (that is, still available but planned for removal) and obsolete (that is, no longer usable).",
+            "tags": [
+                "Obsolete",
+                "Deprecated",
+                "JavaScript"
+            ],
+            "score": 1.0,
+            "parent": {}
+        },
+        {
+            "id": 3629,
+            "title": "Int8Array",
+            "slug": "Web/JavaScript/Reference/Global_Objects/Int8Array",
+            "locale": "en-US",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+            "edit_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array$edit",
+            "excerpt": "The Int8Array typed array represents an array of twos-complement 8-bit signed integers. The contents are initialized to 0. Once established, you can reference elements in the array using the object's methods, or using standard array index syntax (that is, using bracket notation).",
+            "tags": [
+                "Constructor",
+                "JavaScript",
+                "Int8Array",
+                "TypedArray",
+                "TypedArrays"
+            ],
+            "score": 1.0,
+            "parent": {}
+        }
+    ]
+}
